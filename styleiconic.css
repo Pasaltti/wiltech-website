@@ -1,0 +1,11 @@
+/* selector {
+    property: value;
+} */
+h1 {
+    color: blueviolet;
+}
+.logo {color: rgb(0, 153, 255);
+text-align: center;
+background-color: rgba(0, 0, 255, 0.2);
+font-family: "Georgia", Times New Roman;
+font-style: italics;}
